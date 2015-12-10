@@ -6,7 +6,8 @@ import UIKit
 
 //
 let unRangoDeNumeros = 0...100
-//or range
+//or range include more 
+
 for numero in unRangoDeNumeros {
     
     if numero % 5 == 0 {
